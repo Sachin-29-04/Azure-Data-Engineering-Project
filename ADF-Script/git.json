@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder": "adventureworks-product-categories",
+        "p_sink_file": "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Calendar.csv",
+        "p_sink_folder": "adventureworks-calendar",
+        "p_sink_file": "AdventureWorks_Calendar.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Customers.csv",
+        "p_sink_folder": "adventureworks-customers",
+        "p_sink_file": "AdventureWorks_Customers.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder": "product-subcategories",
+        "p_sink_file": "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Products.csv",
+        "p_sink_folder": "adventureworks-products",
+        "p_sink_file": "AdventureWorks_Products.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Returns.csv",
+        "p_sink_folder": "adventureworks-returns",
+        "p_sink_file": "AdventureWorks_Returns.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder": "adventureworks-sales-2015",
+        "p_sink_file": "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder": "adventureworks-sales-2016",
+        "p_sink_file": "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder": "adventureworks-sales-2017",
+        "p_sink_file": "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "p_rel_url": "Sachin-29-04/Azure-Data-Engineering-Project/main/Datasets/AdventureWorks_Territories.csv",
+        "p_sink_folder": "adventureworks-territories",
+        "p_sink_file": "AdventureWorks_Territories.csv"
+    }
+]
